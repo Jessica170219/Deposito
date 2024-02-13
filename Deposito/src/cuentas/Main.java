@@ -1,4 +1,9 @@
 package cuentas;
+/**  
+ * 
+ * @author jessi
+ *
+ */
 public class Main {
 
     public static void main(String[] args) {

@@ -1,4 +1,9 @@
 package cuentas; 
+/**Clase cuenta
+ * 
+ * @author jessi
+ *
+ */
 
 public class CCuenta {
 
